@@ -1,2 +1,2 @@
-# CoinMonitorBot
+# CoinChecker
  
